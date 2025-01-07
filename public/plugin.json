@@ -1,0 +1,32 @@
+{
+  "$schema": "../resource/utools.schema.json",
+  "main": "index.html",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://localhost:5173"
+  },
+  "features": [
+    {
+      "code": "geohash",
+      "explain": "geohash和经纬度转换助手",
+      "cmds": [
+        "geohash",
+        "地理编码",
+        "地址编码",
+        "坐标转换",
+        "经纬度",
+        "经度",
+        "纬度",
+        "coordinate",
+        "location",
+        "position",
+        "longitude",
+        "latitude",
+        "lnglat",
+        "lonlat",
+        "gps",
+        "gis"
+      ]
+    }
+  ]
+}
